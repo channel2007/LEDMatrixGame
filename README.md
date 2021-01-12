@@ -14,6 +14,12 @@
 ![alt 文字](http://www.webfish.com.tw/github/LEDMatrixGame.jpg "Logo 接線圖 1")
 * 324x16 RGB LED Matrix要額外給電
  
+# 所需函數庫 
+* [adafruit/RGB-matrix-Panel](https://github.com/adafruit/RGB-matrix-Panel) 
+* [Adafruit-GFX-Library](https://github.com/adafruit/Adafruit-GFX-Library) 
+* [simondlevy/PS2X_lib](https://github.com/simondlevy/PS2X_lib) 
+ 
+ 
 [有任何問題歡迎上無限升級紛絲團](https://www.facebook.com/unlimited.upgrade)
 
 
