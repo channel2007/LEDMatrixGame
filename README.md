@@ -1,7 +1,8 @@
-[![圖片](http://www.webfish.com.tw/github/LEDMatrixGameYT.jpg)](https://youtu.be/Ly4qgUcNUYM)
-
 # 前言
 ### 在324x16 RGB LED Matrix上使用PS2搖桿玩跳雪球遊戲
+
+# 影片
+[![圖片](http://www.webfish.com.tw/github/LEDMatrixGameYT.jpg)](https://youtu.be/Ly4qgUcNUYM)
 
 # 所需材料
 * 324x16 RGB LED Matrix 
