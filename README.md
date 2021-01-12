@@ -20,7 +20,7 @@
 * 324x16 RGB LED Matrix要額外給電
  
  
-[有任何問題歡迎上無限升級紛絲團](https://www.facebook.com/unlimited.upgrade)
+[無限升級紛絲團](https://www.facebook.com/unlimited.upgrade)
 
 
 
